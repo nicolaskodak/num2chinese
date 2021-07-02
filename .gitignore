@@ -1,0 +1,13 @@
+*.exe
+*.bin
+*.msi
+*.pt
+*.pb
+*.egg-info
+setup.py
+setup.cfg
+log
+__pycache__
+build/
+dist/
+.DS_Store
